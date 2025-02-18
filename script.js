@@ -17,6 +17,14 @@ const articles = [
   {
     title: "Behind the Scenes",
     content: "Here's a sneak peek into how I built this platform."
+  },
+  {
+    title: "New Collaboration",
+    content: "Teaming up with an amazing designer for a new project!"
+  },
+  {
+    title: "Tech Stack Update",
+    content: "Switched to a new tech stack for better performance."
   }
 ];
 
