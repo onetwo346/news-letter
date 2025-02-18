@@ -25,6 +25,14 @@ const articles = [
   {
     title: "Tech Stack Update",
     content: "Switched to a new tech stack for better performance."
+  },
+  {
+    title: "User Feedback",
+    content: "Received amazing feedback from users. Thank you all!"
+  },
+  {
+    title: "Future Plans",
+    content: "Planning to expand the platform with more features."
   }
 ];
 
